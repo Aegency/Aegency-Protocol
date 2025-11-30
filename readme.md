@@ -2,7 +2,7 @@
 
 **Goal**
 
-Meta-Layer for "Decentralized Physical Infrastructure Networks (DePIN)" and "Decentralized AI (DeAI)".
+Meta-Layer for "Decentralized Physical Infrastructure Networks (DePIN)" and "Decentralized AI (DeAI)". Free and open is the goal.
 
 **Forum**
 
