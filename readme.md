@@ -9,3 +9,7 @@ Free and open meta-layer for "Decentralized Physical Infrastructure Networks (De
 **Forum**
 
 https://discord.gg/3CEcMa9wex
+
+**Information**
+
+https://github.com/Aegency/Aegency/wiki
