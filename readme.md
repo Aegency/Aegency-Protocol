@@ -8,7 +8,7 @@ Free and open "Decentralized AIs (DeAI)" and "Decentralized Physical Infrastruct
 
 **Parts**
 
-Dezentrale Registry für Node-Interoperabilität.
+Decentral nodes (registry, ..) for interoperability.
 
 **Forum**
 
