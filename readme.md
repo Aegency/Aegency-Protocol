@@ -6,6 +6,8 @@
 
 Free and open "Decentralized AIs (DeAI)" and "Decentralized Physical Infrastructure Networks (DePIN)".
 
+Dezentrale Registry für Node-Interoperabilität.
+
 **Forum**
 
 https://discord.gg/3CEcMa9wex
