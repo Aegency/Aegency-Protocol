@@ -4,7 +4,7 @@
 
 **Goal**
 
-Free and open "Decentralized AIs (DeAI)" and "Decentralized Physical Infrastructure Networks (DePIN)".
+Free and open "Decentralized AIs (DeAI)" + "Decentralized Physical Infrastructure Networks (DePIN)".
 
 **Software**
 
